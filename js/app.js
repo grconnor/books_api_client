@@ -24,7 +24,6 @@ const submitHandler = async () => {
     },
     body: JSON.stringify({title: title, author: author})
   })
-  debugger;
 };
 
 document.addEventListener("DOMContentLoaded", () => {
