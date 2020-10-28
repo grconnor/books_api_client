@@ -1,0 +1,14 @@
+{
+  "name": "books_api_client",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.13",
+    "superstatic": "^7.0.1"
+  },
+  "description": "B",
+  "author": "<connorroelofsen15@gmail.com>",
+  "repository": "www",
+  "private": false
+}
